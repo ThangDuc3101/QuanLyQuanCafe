@@ -1,0 +1,16 @@
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\bin\Debug\quanlyquancafe.exe.config
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\bin\Debug\quanlyquancafe.exe
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\bin\Debug\quanlyquancafe.pdb
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.Form1.resources
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.Properties.Resources.resources
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.csproj.GenerateResource.cache
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.exe
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.pdb
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.DatMon.resources
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.TimKiem.resources
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.Thongke.resources
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\bin\Debug\coffe.mdf
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\bin\Debug\coffe_log.ldf
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafe\obj\Debug\quanlyquancafe.csproj.AssemblyReference.cache

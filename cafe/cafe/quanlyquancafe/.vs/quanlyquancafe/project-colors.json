@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bac46d7e-a547-4608-9b5b-b218c0d33cb6": {
+      "ProjectGuid": "bac46d7e-a547-4608-9b5b-b218c0d33cb6",
+      "DisplayName": "quanlyquancafe",
+      "ColorIndex": 0
+    },
+    "1a6ea444-974f-4a78-971e-71a8fcae74b4": {
+      "ProjectGuid": "1a6ea444-974f-4a78-971e-71a8fcae74b4",
+      "DisplayName": "quanlyquancafeWCF",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,6 @@
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafeWCF\bin\Debug\quanlyquancafeWCF.dll.config
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafeWCF\bin\Debug\quanlyquancafeWCF.dll
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafeWCF\bin\Debug\quanlyquancafeWCF.pdb
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafeWCF\obj\Debug\quanlyquancafeWCF.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafeWCF\obj\Debug\quanlyquancafeWCF.dll
+C:\Users\Thang\OneDrive\Desktop\cafe\quanlyquancafe\quanlyquancafeWCF\obj\Debug\quanlyquancafeWCF.pdb
